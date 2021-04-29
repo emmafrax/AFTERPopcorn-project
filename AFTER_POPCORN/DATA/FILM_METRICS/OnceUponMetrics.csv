@@ -1,0 +1,4 @@
+﻿platrofm,num_comments,compound_mean,compound_var,num_pos_com,num_neg_com,num_neu_com,pos_words/coms mean,pos_words/coms var,words_per_comment mean,neg_words/coms mean,neg_words/coms var
+YouTube,7023,0.156,0.286,3659,2079,1285,1.858,6.812,27.35,1.116,3.57
+Reddit,498,0.125,0.27,232,142,124,1.66,10.95,29.86,1.14,5.31
+IMDB,325,0.46,0.5,242,83,0,16.69,262.03,279.62,8.15,69.24
